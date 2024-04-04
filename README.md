@@ -14,6 +14,8 @@
 [Ignite UI for Blazor](https://www.infragistics.com/products/ignite-ui-blazor) is a complete library of UI components, giving you the ability to build modern web applications using encapsulation and the concept of reusable components in a dependency-free approach. 
 All components are based on the [Indigo.Design Design System](https://www.infragistics.com/products/appbuilder/ui-toolkit) and are backed by ready-to-use UI kits for Sketch, Adobe XD and Figma.
 
+Join Ignite UI for [Blazor Discord](https://discord.com/channels/836634487483269200/836636796229386241) and become part of the dev community there. 
+
 ## Browser Support
 
 ![chrome_48x48](https://user-images.githubusercontent.com/2188411/168109445-fbd7b217-35f9-44d1-8002-1eb97e39cdc6.png) | ![firefox_48x48](https://user-images.githubusercontent.com/2188411/168109465-e46305ee-f69f-4fa5-8f4a-14876f7fd3ca.png) | ![edge_48x48](https://user-images.githubusercontent.com/2188411/168109472-a730f8c0-3822-4ae6-9f54-785a66695245.png) | ![opera_48x48](https://user-images.githubusercontent.com/2188411/168109520-b6865a6c-b69f-44a4-9948-748d8afd687c.png) | ![safari_48x48](https://user-images.githubusercontent.com/2188411/168109527-6c58f2cf-7386-4b97-98b1-cfe0ab4e8626.png)
